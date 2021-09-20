@@ -1,2 +1,2 @@
 # Smartdata_website
-I developing this website using PHP
+ Developing this website using PHP
